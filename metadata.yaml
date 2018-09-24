@@ -1,11 +1,16 @@
 _repo: British-Bees-An-Introduction-into-the-Studies-of-the-Natural-History-and-Economy-of-the-Bees-__56201
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56201-h/images/cover.jpg
 creator:
   author:
     agent_name: Shuckard, William Edward (W. E.)
     gutenberg_agent_id: '48719'
     url: http://www.gutenberg.org/2009/agents/48719
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56201#British-Bees-An-Introduction-into-the-Studies-of-the-Natural-History-and-Economy-of-the-Bees-_
 gutenberg_issued: '2017-12-18'
 gutenberg_type: Text
 identifiers:
